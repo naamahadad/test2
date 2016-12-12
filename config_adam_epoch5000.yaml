@@ -1,0 +1,8 @@
+dropout : False
+dropout_p : 0
+batch_norm : False
+num_epochs : 5000
+minibatch_size : 128
+res_path : /home/algo/results_nn/VAE/
+learning_rule : adam
+weights_init_type : reg
